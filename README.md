@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋 I'm Leon</h1>
-<p>I’m a full-stack developer working with JavaScript, React, Node and SQL. I'm currently improving my react skills and also interested in learning Tailwind and Typescript.
+<p>I’m a full-stack developer working with Python, React, Node and SQL, and I'm currently improving my Typescript skills.
 
 One of the things I love most about coding is the sheer freedom it gives you, I think the ability to create almost anything you can think of and bring it to life is awesome! It reminds me of when you're young and you allowed your imagination to run wild as you scribbled every thought in every colour onto a piece of paper!
 
